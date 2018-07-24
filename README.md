@@ -7,7 +7,7 @@
 * what is `r'^` in urls. - jus regex
 * urlname need not necessarily be the appname or best practice ?
 * what if many urls shares same functionalities ....how to write functionality shared by many urls ?
-* `url()` vs `path()` - just rename
+* `url()` vs `path()` - just rename for in Django 2.1
 * what is .idea/
 
 * what if we forget to makemigrations and instead run migrate directly
